@@ -14,3 +14,10 @@ if (myNum >= 80) {
 } else {
     console.log("Act sad and sleep");
 }
+
+let num1 =9;
+let num2 =8;
+let result;
+result = num1>num2 ? console.log(2*num1) : console.log(num1+num2);
+
+
