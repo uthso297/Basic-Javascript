@@ -5,3 +5,5 @@ const fullname = first + ' ' + last;
 console.log(fullname);
 const fullName = first.concat(' ').concat(last);
 console.log(fullName);
+
+console.log(last.includes('d'));
