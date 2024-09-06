@@ -26,3 +26,9 @@ function isOdd(number){
     return false;
 }
 console.log(isOdd(6));
+
+function numberOfElements(numbers){
+    const len = numbers.length;
+    return len;
+}
+console.log(numberOfElements([1,2,3,4,5,6,7,8,9,10]));
