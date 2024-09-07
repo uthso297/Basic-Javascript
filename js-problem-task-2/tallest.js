@@ -15,3 +15,4 @@ const result = tallest(heights);
 console.log(result);
 const result1 = tallest(heights1);
 console.log(result1);
+//cd "P:\modeule 16.5 node js\Jantus\js-problem-task-2"
